@@ -3,4 +3,10 @@ const timerId = setTimeout(
   0
 );
 
+// setImmediate
+
+// will not print anything and just exit
 clearTimeout(timerId);
+
+// clearInterval
+// clearImmediate

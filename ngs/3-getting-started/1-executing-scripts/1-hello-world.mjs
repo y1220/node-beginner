@@ -6,7 +6,7 @@ import http from 'http';
 
 
 const server = http.createServer((req, res) => {
-  res.end('Hello Node\n');
+  res.end('Hello Noooode\n');
 });
 
 // check if server runs succesfully
