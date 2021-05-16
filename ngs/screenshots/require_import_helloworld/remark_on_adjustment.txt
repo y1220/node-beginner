@@ -1,0 +1,3 @@
+remark: When I change the content in a file, to be shown the change on browser do
+1. terminate the running terminal
+2. run again 

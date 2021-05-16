@@ -1,8 +1,12 @@
 // creating a web server (build in HTTP module API)
-const http = require('http');
+// const http = require('http');
+// doesn't work...
+import http from 'http';
+// import { createServer } from 'http';
+
 
 const server = http.createServer((req, res) => {
-  res.end('Hello World\n');
+  res.end('Hello Node\n');
 });
 
 // check if server runs succesfully

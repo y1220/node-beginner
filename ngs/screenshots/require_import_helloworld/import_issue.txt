@@ -1,0 +1,5 @@
++ faced an error on using import and the below is the discussion  how to deal with it
+https://stackoverflow.com/questions/54384073/import-not-working-on-node-js-version-11-8-0
++ when I run, I need to put  --experimental-modules right after node
+(ex) node --experimental-modules 1-hello-world.js 
+
